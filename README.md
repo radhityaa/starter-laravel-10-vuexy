@@ -21,17 +21,16 @@ The project also includes a dynamic menu generated from the database.
 
 ## Installation
 
-1. git clone https://github.com/suryadi445/starter-laravel-10-ui.git
-2. cd starter-laravel-10-ui
+1. git clone https://github.com/radhityaa/starter-laravel-10-vuexy.git
+2. cd starter-laravel-10-vuexy
 3. composer install
 4. npm install
 5. cp .env.example .env
 6. php artisan key:generate
-7. php artisan migrate
-8. php artisan db:seed
-9. npm run dev
-10. php artisan serve
-11. enjoy it http://127.0.0.1:8000/
+7. php artisan migrate:fresh --seed
+8. npm run dev
+9. php artisan serve
+10. enjoy it http://127.0.0.1:8000/
 
 ## Access Admin Page
 1. Admin :
