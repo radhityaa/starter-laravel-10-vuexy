@@ -10,6 +10,7 @@ The project also includes a dynamic menu generated from the database.
 - DataTable Yajra for advanced data table functionalities.
 - Laravel Spatie for efficient role and permission management.
 - Dynamic menu generated from the database, providing flexibility in navigation.
+- Template Vuexy
 
 ## Requirements
 
@@ -34,7 +35,7 @@ The project also includes a dynamic menu generated from the database.
 
 ## Access Admin Page
 1. Admin :
-Username : suryadi.hhb@gmail.com
+Username : admin@gmail.com
 Password : password
 
 2. Manager : 
@@ -44,38 +45,6 @@ Password : password
 3. Supervisor
 Username : spv@gmail.com
 Password : password
-
-## Login Page
-![image](https://github.com/suryadi445/starter-laravel-10-ui/assets/68637256/c260e235-26ed-492d-89e4-a02a47b1aa7c)
-
-
-## Register Page 
-![image](https://github.com/suryadi445/starter-laravel-10-ui/assets/68637256/16d566a3-45c7-4066-9f2f-7ebb44f453a6)
-
-## Dashboard Page
-![image](https://github.com/suryadi445/starter-laravel-10-ui/assets/68637256/ead594a9-1836-4fe0-98d1-38f02353d23b)
-
-## Role Page 
-![image](https://github.com/suryadi445/starter-laravel-10-ui/assets/68637256/45fe1acf-01b7-4ac7-8c05-63d07ebe6781)
-
-## Permission Page
-![image](https://github.com/suryadi445/starter-laravel-10-ui/assets/68637256/cf28afb7-6595-4a5d-8188-b318f32b75c9)
-
-## Menu Page
-![image](https://github.com/suryadi445/starter-laravel-10-ui/assets/68637256/26f66367-313a-444f-b2c0-522d11f230e8)
-
-## User Page
-![image](https://github.com/suryadi445/starter-laravel-10-ui/assets/68637256/6beddf3d-748e-4e39-b060-fa01ac50430a)
-
-
-
-## Special Thanks to 
-- [Laravel](https://laravel.com/docs/10.x)
-- [Laravel UI](https://github.com/laravel/ui)
-- [Laravel Spatie](https://spatie.be/docs/laravel-permission/v6/introduction)
-- [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
-- [ArFa - Admin Dashboard](https://github.com/abdulisabdul/arfa)
-- [Yajra Datatable](https://yajrabox.com/docs/laravel-datatables/10.0)
 
 
 
