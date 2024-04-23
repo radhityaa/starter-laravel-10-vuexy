@@ -109,7 +109,7 @@ class UserRolePermissionSeeder extends Seeder
     public function createUserProfile()
     {
         // Buat profil untuk Admin
-        $admin = User::where('email', 'suryadi.hhb@gmail.com')->first();
+        $admin = User::where('email', 'admin@gmail.com')->first();
         if ($admin) {
             $admin->profile()->create([
                 'no_hp' => '089678468651',
