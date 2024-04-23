@@ -16,6 +16,7 @@
         "laravel/ui": "^4.5",
         "php-flasher/flasher-laravel": "^1.15",
         "php-flasher/flasher-notyf-laravel": "^1.15",
+        "spatie/laravel-activitylog": "^4.8",
         "spatie/laravel-permission": "^6.4",
         "yajra/laravel-datatables": "^10.1"
     },
